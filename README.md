@@ -1,3 +1,3 @@
 # portfolio
 
-https://techie2040.github.io/portfolio/
+https://suhail2400.github.io/portfolio/
